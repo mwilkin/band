@@ -1,0 +1,18 @@
+img {
+  width: 100%;
+}
+
+.imgcol {
+  float: right;
+  width: 20%;
+}
+
+.tourdate {
+  margin-top: -20px;
+  margin-right: 20px;
+  float: left;
+  width: 200px;
+  font-size: 24px;
+  background-color: red;
+
+}
