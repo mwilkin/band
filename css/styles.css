@@ -5,6 +5,10 @@ img {
 .imgcol {
   float: right;
   width: 20%;
+  border: 3px solid red;
+  background-color: pink;
+  padding: 20px;
+  margin-top: -20px;
 }
 
 .tourdate {
@@ -14,5 +18,7 @@ img {
   width: 200px;
   font-size: 24px;
   background-color: red;
+  border: 3px solid black;
+  padding: 10px;
 
 }
